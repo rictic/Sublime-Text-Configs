@@ -1,3 +1,5 @@
 Backup/
 Settings/
 Pristine Packages/
+*.cache
+*.pyc
